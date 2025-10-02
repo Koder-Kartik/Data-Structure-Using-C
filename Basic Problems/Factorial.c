@@ -1,3 +1,4 @@
+/*it checks if two numbers are prime and calculates their HCF*/
 #include<stdio.h>
 int main()
 {
